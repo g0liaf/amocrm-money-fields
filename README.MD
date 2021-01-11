@@ -2,4 +2,4 @@
 ## Интеграция/виджет для amoCRM
 	Установка осуществляется из глобального магазина интеграйций
 
-	![Вид виджета](https://drive.google.com/file/d/1x8oYqMntPTn69UWgilO_zOjFGqdwzBtR/view?usp=sharing)
+![Внешний вид](https://drive.google.com/uc?export=view&id=1x8oYqMntPTn69UWgilO_zOjFGqdwzBtR)
